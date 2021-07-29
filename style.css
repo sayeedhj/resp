@@ -1,0 +1,50 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+}
+
+/* Background Colors  */
+.bg-color{
+    background-color: #264653
+    ;
+}
+.bgr-color{
+    background-color: #E76F51
+    ;
+}
+/* Colors */
+.a-color a{
+    color: white;
+}
+.p-color{
+    color: #E76F51
+    ;
+}
+.s-color{
+    color: #E77C40
+    ;
+}
+.btn-color{
+    background-color: #E76F51
+    ;
+}
+/* GrayScaling */
+.moto{
+    filter: grayscale(1); 
+}
+/* Margin & Padding */
+.mrgn-btm{
+    margin-bottom: 120px;
+}
+.p-left{
+    padding-left: 100px;
+}
+
+/* Anchoring */
+
+.a-desgn a{
+    text-decoration: none;
+}
+/* Bordrs */
+.rds{
+    border-radius: 10px;
+}
